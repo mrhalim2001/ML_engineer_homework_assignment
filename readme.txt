@@ -15,6 +15,8 @@ You task is to edit this code to enforce as much of the previous improvement as 
 
 When not sure, you can still suggest non-specific edits. For example, if you don't know what a function is doing but still think it needs a descriptive comment, insert one that says: "descriptive comment here to explain x,y,z"
 
+Note that we are more interested in the quality than the quantity of the improvements that you make.
+
 
 INSTRUCTIONS:
 -------------
